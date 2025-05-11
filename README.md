@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/2fec0b70-2592-45e2-ab4f-a0968680d347
+
+
 # Reverse Tic Tac Toe
 
 Reverse Tic Tac Toe is a fun twist on the classic game of Tic Tac Toe where the objective is **to lose**. The first player to get **three in a row (horizontally, vertically, or diagonally)** **loses** the game!

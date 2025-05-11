@@ -26,5 +26,6 @@ Unlike normal Tic Tac Toe:
 - Pygame
 
 Install Pygame using pip if not already installed:
-```bash
+```bash[Report.pdf](https://github.com/user-attachments/files/20148714/Report.pdf)
+
 pip install pygame

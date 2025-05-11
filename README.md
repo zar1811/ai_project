@@ -31,4 +31,4 @@ pip install pygame
 
 ## Project Report
     
- [Report.pdf](https://github.com/user-attachments/files/20148874/Report.pdf)
+-Download : [Report.pdf](https://github.com/user-attachments/files/20148874/Report.pdf)
